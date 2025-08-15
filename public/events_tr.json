@@ -1,0 +1,413 @@
+[
+  {
+    "id": "1",
+    "title": "Hz. Muhammed’in Doğumu",
+    
+    "year": 571,
+    "location": "Mekke, Suudi Arabistan (Kâbe)",
+    "coordinates": [21.422487, 39.826206],
+    "description": "Hz. Peygamber’in Mekke’de doğumu, geleneksel olarak Rebiülevvel ayında.",
+    "significance": "Hz. Muhammed’in doğumu, İslam peygamberinin dünyaya gelişiyle insanlık tarihinde yeni bir dönemin başlangıcıdır.",
+    "category": "religious",
+    "image": "/images/optimized_birth.png",
+    "detailedDescription": "Geleneksel kaynaklara göre Fil Yılı'nda Mekke'de doğdu. Hâşim kabilesindendi, çocuklukta bir sütanne yanında kaldı."
+  },
+  {
+    "id": "2",
+    "title": "Sütannesinden Annesine Dönüş",
+    
+    "year": 574,
+    "location": "Mekke, Suudi Arabistan",
+    "coordinates": [21.422487, 39.826206],
+    "description": "Genç Muhammed, sütannesinden annesi Âmine'ye teslim edildi.",
+    "significance": "Arap toplumunda yaygın olan sütanne döneminin sona ermesi.",
+    "category": "personal",
+    "image": "/images/optimized_return_from_foster.png",
+    "detailedDescription": "Halime sütannenin yanında geçirilen dönem sona erdi ve annesine döndü."
+  },
+  {
+    "id": "3",
+    "title": "Annesi Âmine’nin Vefatı",
+    
+    "year": 575,
+    "location": "Ebva, Mekke–Medine Yolu",
+    "coordinates": [21.3083, 39.9833],
+    "description": "Âmine bint Vehb, Medine dönüşü Ebva’da vefat etti.",
+    "significance": "Muhammed yetim kaldı; dedesi Abdulmuttalib onu korumaya aldı.",
+    "category": "personal",
+    "image": "/images/optimized_abwa.png",
+    "detailedDescription": "Çocuk yaşta annesini kaybetti. Dedesinin himayesi altına geçti."
+  },
+  {
+    "id": "4",
+    "title": "Dedesi Abdulmuttalib’in Vefatı",
+    
+    "year": 577,
+    "location": "Mekke, Suudi Arabistan",
+    "coordinates": [21.422487, 39.826206],
+    "description": "Abdulmuttalib vefat etti; velayet Ebû Tâlib’e geçti.",
+    "significance": "Genç yaşta amcasının himayesine girdi.",
+    "category": "personal",
+    "image": "/images/optimized_abdul_muttalib_death.png",
+    "detailedDescription": "Kâbe'nin koruyucusu olarak önemli bir şahsiyetti."
+  },
+  {
+    "id": "5",
+    "title": "İlk Şam Ticareti",
+    
+    "year": 578,
+    "location": "Şam (Bizans toprakları) – Busra",
+    "coordinates": [32.5175, 36.4928],
+    "description": "Amcası Ebû Tâlib ile ilk ticaret seferi.",
+    "significance": "Geniş kültürler ve ticaret yollarıyla tanışma fırsatı buldu.",
+    "category": "personal",
+    "image": "/images/optimized_syria_trip.png",
+    "detailedDescription": "Genç yaşta bölgeyi tanımasına sevk eden bir ticaret yolculuğuydu."
+  },
+  {
+    "id": "6",
+    "title": "Ficâr Savaşları ve Hılfu’l-Fudûl'e Katılım",
+    
+    "year": 589,
+    "location": "Mekke çevresi",
+    "coordinates": [21.422487, 39.826206],
+    "description": "Cahiliye döneminde savaş ve adalet ittifakına iştirak.",
+    "significance": "Erken dönemde ahlaki liderlik sergilendi.",
+    "category": "political",
+    "image": "/images/optimized_fijar_hilf.png",
+    "detailedDescription": "Erdemliler İttifakı’na katılarak haksızlıklara karşı durdu."
+  },
+  {
+    "id": "7",
+    "title": "Hz. Hatice ile Evlilik",
+    
+    "year": 594,
+    "location": "Mekke, Suudi Arabistan",
+    "coordinates": [21.422487, 39.826206],
+    "description": "Hz. Muhammed, Hz. Hatice ile evlendi.",
+    "significance": "Social and financial support secured.",
+    "category": "personal",
+    "image": "/images/optimized_marriage_khadija.png",
+    "detailedDescription": "Henüz vahyin gelmediği dönemde ona büyük destek oldu."
+  },
+  {
+    "id": "8",
+    "title": "Hacerü’l-Esved’in Yerleştirilmesinde Hakemlik",
+    
+    "year": 605,
+    "location": "Kâbe, Mekke",
+    "coordinates": [21.422487, 39.826206],
+    "description": "Kâbe tamiri sırasında taşı yerleştirdi.",
+    "significance": "Wise arbitration example.",
+    "category": "political",
+  "image": "/images/optimized_8.png",
+    "detailedDescription": "Kabileleri uzlaştırarak taşı konumlandırdı."
+  },
+  {
+    "id": "9",
+    "title": "Hirâ’daki İlk Vahiy",
+    
+    "year": 610,
+    "location": "Hira mağarası, Nur Dağı",
+    "coordinates": [21.6243, 39.8744],
+    "description": "Cebrail ilk ayetleri getirdi: Alak suresi.",
+    "significance": "Start of prophethood.",
+    "category": "religious",
+  "image": "/images/optimized_9.png",
+    "detailedDescription": "İlahi mesajın başlangıcına vesile oldu."
+  },
+  {
+    "id": "10",
+    "title": "Açık Davet ve Akrabalara Çağrı",
+    
+    "year": 613,
+    "location": "Mekke",
+    "coordinates": [21.422487, 39.826206],
+    "description": "Davet açıklandı; yakın akrabalar çağrıldı.",
+    "significance": "Increased opposition from Quraysh.",
+    "category": "religious",
+  "image": "/images/optimized_10.png",
+    "detailedDescription": "Mesaj yayılımı arttı, tepki de aynı oranda yükseldi."
+  },
+  {
+    "id": "11",
+    "title": "Zulüm Artıyor – İlk Habeşistan Hicreti",
+    
+    "year": 615,
+    "location": "Habeşistan (Aksum)",
+    "coordinates": [14.1217, 38.7246],
+    "description": "İlk Müslümanlar Habeşistan’a sığındı.",
+    "significance": "First migration for safety.",
+    "category": "political",
+  "image": "/images/optimized_11.png",
+    "detailedDescription": "Aksum hükümdarının koruması altına girdiler."
+  },
+  {
+    "id": "12",
+    "title": "İkinci Habeşistan Hicreti ve Önemli Müslümanların Girişi",
+    
+    "year": 616,
+    "location": "Habeşistan (Aksum)",
+    "coordinates": [14.1217, 38.7246],
+    "description": "İkinci göç ve önemli sahabelerin İslam’a girişi.",
+    "significance": "Community strengthened.",
+    "category": "religious",
+  "image": "/images/optimized_12.png",
+    "detailedDescription": "Hz. Hamza ve Hz. Ömer’in müslüman olması önemli kırılmalardı."
+  },
+  {
+    "id": "13",
+    "title": "Banu Haşim’e Sosyal ve Ekonomik Boykot",
+
+    "year": 616,
+    "location": "Mekke",
+    "coordinates": [21.422487, 39.826206],
+    "description": "Banu Haşim boykot edildi.",
+    "significance": "Early Muslim hardships.",
+    "category": "political",
+  "image": "/images/optimized_13.png",
+    "detailedDescription": "Believers alışveriş ve sosyal haklardan mahrum bırakıldı."
+  },
+  {
+    "id": "14",
+    "title": "Boykotun Sona Ermesi",
+    
+    "year": 619,
+    "location": "Mekke",
+    "coordinates": [21.422487, 39.826206],
+    "description": "Boykot kaldırıldı.",
+    "significance": "Relief before Year of Sorrow.",
+    "category": "political",
+  "image": "/images/optimized_14.png",
+    "detailedDescription": "Kâğıt parşömeninin kurtlar tarafından yenmesi mucizesi ile boykot son buldu."
+  },
+  {
+    "id": "15",
+    "title": "Hüzün Yılı – Hz. Hatice ve Ebû Tâlib’in Vefatı",
+    
+    "year": 619,
+    "location": "Mekke",
+    "coordinates": [21.422487, 39.826206],
+    "description": "En büyük destekçilerini kaybetti.",
+    "significance": "Emotional and political vulnerability.",
+    "category": "personal",
+  "image": "/images/optimized_15.png",
+    "detailedDescription": "Hem eşi hem de amcası aynı yıl vefat etti."
+  },
+  {
+    "id": "16",
+    "title": "Tâif Yolculuğu",
+    
+    "year": 620,
+    "location": "Tâif, Suudi Arabistan",
+    "coordinates": [21.2667, 40.4167],
+    "description": "Davet için Tâif’e gitti fakat reddedildi.",
+    "significance": "Rejection led to further reliance on divine support.",
+    "category": "religious",
+  "image": "/images/optimized_16.png",
+    "detailedDescription": "Şiddetli reddediş ve taşlanma yaşandı."
+  },
+  {
+    "id": "17",
+    "title": "İsra ve Miraç",
+    
+    "year": 621,
+    "location": "Mekke - Kudüs - Semâ",
+    "coordinates": [31.7767, 35.2345],
+    "description": "Mescid-i Haram’dan Mescid-i Aksa’ya ve oradan semaya yükseliş.",
+    "significance": "Spiritual elevation; Salah made obligatory.",
+    "category": "religious",
+  "image": "/images/optimized_17.png",
+    "detailedDescription": "Namaz ibadeti bu olayda farz kılındı."
+  },
+  {
+    "id": "18",
+    "title": "Akabe Biatları",
+    
+    "year": 621,
+    "location": "Akabe, Mina yakınları",
+    "coordinates": [21.4108, 39.8947],
+    "description": "Medineli Müslümanlarla iki ayrı biat.",
+    "significance": "Foundation for Hijra.",
+    "category": "political",
+  "image": "/images/optimized_18.png",
+    "detailedDescription": "İlk biatta iman, ikinci biatta savaşta destek sözü verildi."
+  },
+  {
+    "id": "19",
+    "title": "Hicret",
+    
+    "year": 622,
+    "location": "Mekke → Medine",
+    "coordinates": [24.4686, 39.6142],
+    "description": "Müslümanların Medine’ye göçü.",
+    "significance": "Start of Islamic calendar.",
+    "category": "political",
+  "image": "/images/optimized_19.png",
+    "detailedDescription": "Hz. Peygamber Sevr Mağarası’nda üç gün kaldı."
+  },
+  {
+    "id": "20",
+    "title": "Medine Vesikası",
+    
+    "year": 622,
+    "location": "Medine",
+    "coordinates": [24.4686, 39.6142],
+    "description": "Medine’de toplumsal sözleşme imzalandı.",
+    "significance": "First Islamic constitution.",
+    "category": "political",
+  "image": "/images/optimized_20.png",
+    "detailedDescription": "Müslümanlar, Yahudiler ve diğerleriyle barış düzeni sağlandı."
+  },
+  {
+    "id": "21",
+    "title": "Bedir Gazvesi",
+    
+    "year": 624,
+    "location": "Bedir, Suudi Arabistan",
+    "coordinates": [23.7798, 38.7903],
+    "description": "İlk büyük savaşta zafer.",
+    "significance": "Divine support confirmed for Muslims.",
+    "category": "military",
+  "image": "/images/optimized_21.png",
+    "detailedDescription": "313 Müslüman, 1000 kişilik müşrik orduyu yendi."
+  },
+  {
+    "id": "22",
+    "title": "Uhud Gazvesi",
+    
+    "year": 625,
+    "location": "Uhud Dağı, Medine",
+    "coordinates": [24.5141, 39.5781],
+    "description": "İkinci büyük savaş, kısmi yenilgi.",
+    "significance": "Lesson on obedience.",
+    "category": "military",
+  "image": "/images/optimized_22.png",
+    "detailedDescription": "Okçular tepesinden ayrılma emri ihlali mağlubiyete yol açtı."
+  },
+  {
+    "id": "23",
+    "title": "Hendek Savaşı",
+    
+    "year": 627,
+    "location": "Medine",
+    "coordinates": [24.4686, 39.6142],
+    "description": "Medine hendekle savunuldu.",
+    "significance": "Turning point in defense tactics.",
+    "category": "military",
+  "image": "/images/optimized_23.png",
+    "detailedDescription": "Selman-ı Farisi’nin önerisiyle hendek kazıldı."
+  },
+  {
+    "id": "24",
+    "title": "Hudeybiye Antlaşması",
+    
+    "year": 628,
+    "location": "Hudeybiye, Mekke yakınları",
+    "coordinates": [21.4375, 39.6994],
+    "description": "Müslümanlar ile Kureyş arasında barış.",
+    "significance": "Allowed peaceful spread of Islam.",
+    "category": "political",
+  "image": "/images/optimized_24.png",
+    "detailedDescription": "Bazı şartları ağır görünse de uzun vadede faydalı oldu."
+  },
+  {
+    "id": "25",
+    "title": "Hayber’in Fethi",
+    
+    "year": 628,
+    "location": "Hayber, Suudi Arabistan",
+    "coordinates": [25.8011, 39.2664],
+    "description": "Hayber Yahudileri teslim oldu.",
+    "significance": "Secured northern threat.",
+    "category": "military",
+  "image": "/images/optimized_25.png",
+    "detailedDescription": "Hz. Ali’nin sancağı taşıdığı meşhur olay burada yaşandı."
+  },
+  {
+    "id": "26",
+    "title": "Mekke’nin Fethi",
+    
+    "year": 630,
+    "location": "Mekke",
+    "coordinates": [21.422487, 39.826206],
+    "description": "Mekke savaşsız alındı.",
+    "significance": "Consolidation of Islam in Arabia.",
+    "category": "military",
+  "image": "/images/optimized_26.png",
+    "detailedDescription": "Kâbe putlardan temizlendi."
+  },
+  {
+    "id": "27",
+    "title": "Huneyn Savaşı",
+    
+    "year": 630,
+    "location": "Huneyn, Mekke-Taif arası",
+    "coordinates": [21.35, 40.35],
+    "description": "Hevazin kabilesine karşı zafer.",
+    "significance": "Test of unity after conquest.",
+    "category": "military",
+  "image": "/images/optimized_27.png",
+    "detailedDescription": "Başlangıçta bozguna uğransa da toparlanıldı."
+  },
+  {
+    "id": "28",
+    "title": "Taif Kuşatması",
+    "year": 630,
+    "location": "Taif, Hicaz",
+    "coordinates": [21.437273, 40.512714],
+    "description": "Mekke'nin fethinin ardından Taif şehrine karşı düzenlenen sefer.",
+    "significance": "Taif direndi ancak daha sonra halkının çoğu İslam'ı benimsedi.",
+    "category": "military",
+    "image": "/images/optimized_28.png",
+    "detailedDescription": "Kuşatma hemen teslimiyetle sonuçlanmadı ancak zamanla siyasi etki arttı."
+  },
+  {
+    "id": "29",
+    "title": "Tebük Seferi",
+    "year": 631,
+    "location": "Tebük, Suudi Arabistan",
+    "coordinates": [28.383, 36.583],
+    "description": "Bizans’a karşı sefer düzenlendi.",
+    "significance": "Show of strength without battle.",
+    "category": "military",
+  "image": "/images/optimized_28.png",
+    "detailedDescription": "Zorlu çöl şartlarında gerçekleşti."
+  },
+  {
+    "id": "30",
+    "title": "Heyetler ve Pekiştirme Yılı",
+    "year": 631,
+    "location": "Çeşitli (Arap Yarımadası)",
+    "coordinates": [24.467035, 39.610947],
+    "description": "Birçok kabile heyeti Peygamber’e geldi ve çoğu İslam’ı kabul etti.",
+    "significance": "Diplomasi ve ihtida yoluyla İslam’ın Arap Yarımadası’nda hızla yayılmasını simgeledi.",
+    "category": "political",
+    "image": "/images/optimized_30.png",
+    "detailedDescription": "Bu yıl, İslam’a girmek isteyen çok sayıda elçi ve liderin gelişiyle bilinir. Genellikle 'Heyetler Yılı' olarak anılır."
+  },
+  {
+  "id": "31",
+  "title": "Veda Haccı ve Veda Hutbesi",
+  "year": 632,
+  "location": "Arafat ve Mekke",
+  "coordinates": [21.422487, 39.826206],
+  "description": "Peygamberimiz son haccını yaptı ve ümmete önemli öğütler verdi.",
+  "significance": "Müslümanlar için temel etik ve hukuki prensiplerin özetidir.",
+  "category": "religious",
+  "image": "/images/optimized_31.png",
+  "detailedDescription": "Veda Hutbesi’nde eşitlik, haklar ve görevler vurgulanmıştır."
+},
+{
+  "id": "32",
+  "title": "Hz. Muhammed ﷺ’in Vefatı",
+  "year": 632,
+  "location": "Medine, Suudi Arabistan",
+  "coordinates": [24.467035, 39.610947],
+  "description": "Peygamberimizin vefatı ve Medine’de defni.",
+  "significance": "Peygamberlik dönemi sona ermiş ve halifelik dönemi başlamıştır.",
+  "category": "personal",
+  "image": "/images/optimized_32.png",
+  "detailedDescription": "Peygamberimiz Medine’de, Mescid-i Nebevi yanındaki Aişe validemizin odasında defnedilmiştir."
+}
+]
