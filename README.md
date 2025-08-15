@@ -21,7 +21,7 @@ An interactive historical timeline and map showcasing the life of Prophet Muhamm
 - **Dynamic language switching** with full translation support
 
 ### ⚡ Advanced Timeline Features
-- **32 historical events** spanning from 570 CE to 1453 CE
+- **32 historical events** spanning from 571 CE to 632 CE
 - **Chronological playback** with adjustable speed controls
 - **Event synchronization** between map markers and timeline
 - **Detailed event modals** with rich historical information
@@ -40,18 +40,6 @@ An interactive historical timeline and map showcasing the life of Prophet Muhamm
 - **Components**: Radix UI primitives with shadcn/ui
 - **Language**: TypeScript for type safety
 - **Build Tool**: Modern build pipeline with optimization
-
-## 📋 Historical Events Covered
-
-The timeline includes key events from Islamic history:
-
-- **Early Life (570-610 CE)**: Birth, childhood, and early experiences
-- **Revelation Period (610-622 CE)**: First revelation and early Islamic message
-- **Hijra & Medina (622-632 CE)**: Migration and establishment of Islamic state
-- **Rashidun Caliphate (632-661 CE)**: First four Caliphs
-- **Umayyad Period (661-750 CE)**: Expansion and golden age
-- **Abbasid Era (750-1258 CE)**: Cultural and scientific flourishing
-- **Ottoman Rise (1299-1453 CE)**: Turkish Islamic empire establishment
 
 ## 🚀 Getting Started
 
